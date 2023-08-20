@@ -1,0 +1,36 @@
+.icon-link-menu, .icon-link-post {
+    color:black;
+}
+.topbar-profile-photo, .like-profile-photo {
+    height: 1.7em;
+    width: 1.7em;
+    position: relative;
+}
+.stories-profile-photo {
+    height: 56px;
+    width: 56px;
+    position: relative;
+}
+.stories-username {
+    font-size: small;
+}
+.img-dimension {
+    transform: scale(1.5);
+    width: 100%;
+}
+.post-profile-photo {
+    height: 46px;
+    width: 46px;
+    position: relative;
+}
+.post-picture {
+    width: 549px;
+}
+.special-color {
+    color: lightslategray;
+
+}
+.logo-dimension {
+    transform: scale(1);
+    width: 100%;
+}
